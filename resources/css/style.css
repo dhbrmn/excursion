@@ -33,11 +33,12 @@ p {
 	font-size: 16px;
 }
 
-p.copyright {
+.copyright {
 	color: gray;
 	text-align: right;
 	font-size: 21px;
 	font-family: verdana;
+	width: 1280px
 }
 
 .centered {
