@@ -6,4 +6,6 @@ The real task here was to get more comfortable with the Git workflow and try dif
 
 >That being said I think I didn't do **too bad** at recreating the html even though I'm not really focusing on that yet.
 
+Anyway, to whom it may concern, you can prewiev the html [here](https://dhbrmn.github.io/excursion).
+
 That's all there is to it. Cheers!
